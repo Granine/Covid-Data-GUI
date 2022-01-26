@@ -1,4 +1,4 @@
-"""covid GUI
+"""covid GUI 
 a GUI that extract data from covid that displays information in various ways
 source of data: CPEN 221 class desinated data
 feature 1: plot 4 types of covid data in top to bottom order
